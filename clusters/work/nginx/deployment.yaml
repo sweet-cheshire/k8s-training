@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: nginx-gitops
 spec:
-  replicas: 5
+  replicas: 11
   selector:
     matchLabels:
       app: nginx-gitops
