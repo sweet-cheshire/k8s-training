@@ -1,4 +1,0 @@
-apiVersion: v2
-name: nginx-gitops
-version: 0.1.0
-description: Учебный nginx для GitOps-занятий
