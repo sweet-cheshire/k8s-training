@@ -1,0 +1,7 @@
+appName: nginx-gitops
+replicas: 2
+image:
+  repository: nginx
+  tag: 1.29-alpine
+service:
+  nodePort: 32080
