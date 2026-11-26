@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: nginx-gitops
 spec:
-  replicas: 100
+  replicas: 2
